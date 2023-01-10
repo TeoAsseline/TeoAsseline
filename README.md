@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate and hardworking IT application developer</h3>
 
 - 📫 How to reach me **asselineteo@gmail.com**
-
+- I'm based on Toulouse
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
